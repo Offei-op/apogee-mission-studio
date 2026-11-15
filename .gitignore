@@ -1,0 +1,6 @@
+node_modules/
+node_modules.m0-backup/
+package-lock.m0-backup.json
+dist/
+artifacts/
+*.local

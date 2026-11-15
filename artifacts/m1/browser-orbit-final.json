@@ -1,0 +1,14 @@
+{
+  "altitude": "995.9 km",
+  "apo": "1,431.5 km",
+  "clock": "T + 00:29:06 · PAUSED",
+  "delta-v": "123 m/s",
+  "flight-message": "Guided ascent complete: periapsis is above 120 km. You have control.",
+  "fuel": "64 kg",
+  "horizontal": "6,677 m/s",
+  "peri": "120.1 km",
+  "speed": "7,242 m/s",
+  "status": "Orbit established",
+  "throttle": "0%",
+  "vertical": "626 m/s"
+}
